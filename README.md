@@ -1,8 +1,15 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">,  Hiren Namera here
 <h2>My public Repos</h2>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/jatin2003/count.svg" />
+</p>
+
+
 <table>
   <thead align="center">
-    <tr border: none;>
+    <tr >
       <td><b>🎁 Projects</b></td>
       <td><b>⭐ Stars</b></td>
       <td><b>📚 Forks</b></td>
