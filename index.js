@@ -23,7 +23,7 @@ const readme = `\
 ⏰ Updated on Thu, 20 Aug 2020 09:20:15 GMT
 </p>
 
-<h2>My public Repos</h2>
+<h2>Popular Repos created by me</h2>
 <table>
   <thead align="center">
     <tr >
