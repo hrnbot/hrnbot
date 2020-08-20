@@ -1,4 +1,5 @@
-
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">,  Hiren Namera here
+<h2>My public Repos</h2>
 <table>
   <thead align="center">
     <tr border: none;>
@@ -17,8 +18,7 @@
   </tbody>
 </table>
 
-<br>
-<h3>Where to find me</h3>
+<h2>Where to find me</h2>
 <p><a href="https://github.com/hrnbot" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/hiren-namera-83520ab4" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.instagram.com/the_artificial_intel_developer/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
