@@ -16,7 +16,6 @@ function generateProgressBar() {
 
 const readme = `\
 
-<<<<<<< HEAD
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">,  Hiren Namera here
 <h2>My public Repos</h2>
 
@@ -58,9 +57,6 @@ const readme = `\
 ⏰ Updated on Thu, 20 Aug 2020 09:20:15 GMT
 ![Progress Bar CI](https://github.com/hrnbot/hrnbot/workflows/Progress%20Bar%20CI/badge.svg)
 >>>>>>> 382e886ef34bc73f2f695f586c37ca290b52126c
-
-### Hi there 👋
-
 
 ⏳ Year progress ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(2)} %
 ---
