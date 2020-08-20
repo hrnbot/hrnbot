@@ -1,10 +1,11 @@
+
 <<<<<<< HEAD
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">,  Hiren Namera here
 <h2>My public Repos</h2>
 
-<p align="center"> 
+<p align="center">
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/jatin2003/count.svg" />
+  <img src="https://profile-counter.glitch.me/hrnbot/count.svg" />
 </p>
 
 
@@ -40,3 +41,11 @@
 ⏰ Updated on Thu, 20 Aug 2020 09:20:15 GMT
 ![Progress Bar CI](https://github.com/hrnbot/hrnbot/workflows/Progress%20Bar%20CI/badge.svg)
 >>>>>>> 382e886ef34bc73f2f695f586c37ca290b52126c
+
+### Hi there 👋
+
+
+⏳ Year progress { ███████████████████▁▁▁▁▁▁▁▁▁▁▁ } 63.53 %
+---
+⏰ Updated on Thu, 20 Aug 2020 12:18:48 GMT
+![Progress Bar CI](https://github.com/hrnbot/hrnbot/workflows/Progress%20Bar%20CI/badge.svg)
