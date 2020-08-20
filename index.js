@@ -22,7 +22,7 @@ const readme = `\
 
 <p align="center">
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/jatin2003/count.svg" />
+  <img src="https://profile-counter.glitch.me/hrnbot/count.svg" />
 </p>
 
 
