@@ -1,7 +1,7 @@
 <h1>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">,  Hiren Namera here</h1>
 <p>
 
-⏳ Year progress { ███████████████████▁▁▁▁▁▁▁▁▁▁▁ } 63.57 % I still have time to Learn Techs This YEar
+⏳ Year progress { ███████████████████▁▁▁▁▁▁▁▁▁▁▁ } 63.60 % I still have time to Learn Techs This YEar
 
 </p>
 
@@ -35,5 +35,5 @@
 </p>
 
 <p><a href="https://github.com/hrnbot" target="_blank"><img src="https://github.com/hrnbot/hrnbot/workflows/Progress%20Bar%20CI/badge.svg"/></a></p>
-<p>⏰ Updated on Thu, 20 Aug 2020 16:10:30 GMT</p>
+<p>⏰ Updated on Thu, 20 Aug 2020 18:15:35 GMT</p>
 
