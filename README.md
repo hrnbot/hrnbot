@@ -14,7 +14,7 @@ For more information, guidance or help feel free to Connect. Let's reduce humun 
 </p>
 <p>
 
-⏳ Year progress { ████████████████████████▁▁▁▁▁▁ } 80.07 % I still have time to learn more Techs this year
+⏳ Year progress { ████████████████████████▁▁▁▁▁▁ } 80.14 % I still have time to learn more Techs this year
 
 </p>
 
@@ -48,5 +48,5 @@ For more information, guidance or help feel free to Connect. Let's reduce humun 
 </p>
 
 <p><a href="https://github.com/hrnbot" target="_blank"><img src="https://github.com/hrnbot/hrnbot/workflows/Progress%20Bar%20CI/badge.svg"/></a></p>
-<p>⏰ Updated on Wed, 20 Oct 2021 06:22:53 GMT</p>
+<p>⏰ Updated on Wed, 20 Oct 2021 12:31:00 GMT</p>
 
