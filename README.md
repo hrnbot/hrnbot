@@ -18,15 +18,15 @@ For more information, guidance or help feel free to Connect. Let's reduce humun 
 <div>
 <h1><b>Skills</b></h1>
 <h2>🤖 Artificial Intelligence </h2>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /> 	
-<img src="https://img.shields.io/badge/PyTorch-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white" /> 
-<img src="https://img.shields.io/badge/Scikit-Learn-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white" /> 
-<img src="https://img.shields.io/badge/Opencv-FF6F00?style=for-the-badge&logo=opencv&logoColor=white" /> 
-<img src="https://img.shields.io/badge/NLTK-FF6F00?style=for-the-badge&logo=nltk&logoColor=white" /> 
-<img src="https://img.shields.io/badge/Keras-FF6F00?style=for-the-badge&logo=keras&logoColor=white" /> 
+<img src="https://img.shields.io/badge/TensorFlow-3776AB?style=for-the-badge&logo=tensorflow&logoColor=white" /> 	
+<img src="https://img.shields.io/badge/PyTorch-3776AB?style=for-the-badge&logo=pytorch&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Scikit-Learn-3776AB?style=for-the-badge&logo=scikit-learn&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Opencv-3776AB?style=for-the-badge&logo=opencv&logoColor=white" /> 
+<img src="https://img.shields.io/badge/NLTK-3776AB?style=for-the-badge&logo=nltk&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Keras-3776AB?style=for-the-badge&logo=keras&logoColor=white" /> 
 </div>	
 <h2>🤖 NLP</h2>
-<img src="https://img.shields.io/badge/NLTK-FF6F00?style=for-the-badge&logo=nltk&logoColor=white" /> 
+<img src="https://img.shields.io/badge/NLTK-3776AB?style=for-the-badge&logo=nltk&logoColor=white" /> 
 </div>	
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hrnbot" alt="hrnbot" /></a> </p>
