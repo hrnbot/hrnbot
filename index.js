@@ -42,11 +42,36 @@ For more information, guidance or help feel free to Connect. Let's reduce humun 
 <img src="https://img.shields.io/badge/Opencv-3776AB?style=for-the-badge&logo=opencv&logoColor=white" /> 
 <img src="https://img.shields.io/badge/NLTK-3776AB?style=for-the-badge&logo=nltk&logoColor=white" /> 
 <img src="https://img.shields.io/badge/Keras-3776AB?style=for-the-badge&logo=keras&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Numpy-3776AB?style=for-the-badge&logo=numpy&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Pandas-3776AB?style=for-the-badge&logo=pandas&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Scipy-3776AB?style=for-the-badge&logo=scipy&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Dlib-3776AB?style=for-the-badge&logo=dlib&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Torch Vision-3776AB?style=for-the-badge&logo=torchvision&logoColor=white" /> 
+	
 </div>	
-<h2>🤖 NLP</h2>
+<div>
+<h2>:writing_hand:NLP</h2>
+<img src="https://img.shields.io/badge/Hugging-Face-3776AB?style=for-the-badge&logo=huggingface&logoColor=white" /> 
+<img src="https://img.shields.io/badge/gensim-3776AB?style=for-the-badge&logo=gensim&logoColor=white" /> 
+<img src="https://img.shields.io/badge/spacy-3776AB?style=for-the-badge&logo=spacy&logoColor=white" /> 
+<img src="https://img.shields.io/badge/transformer-3776AB?style=for-the-badge&logo=transformer&logoColor=white" /> 
 <img src="https://img.shields.io/badge/NLTK-3776AB?style=for-the-badge&logo=nltk&logoColor=white" /> 
+<img src="https://img.shields.io/badge/ParlAI-3776AB?style=for-the-badge&logo=parlai&logoColor=white" /> 
 </div>	
-
+<div>
+<h2>:file_cabinet: Python Frameworks</h2>
+<img src="https://img.shields.io/badge/Django-3776AB?style=for-the-badge&logo=django&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Flask-3776AB?style=for-the-badge&logo=flask&logoColor=white" /> 
+<img src="https://img.shields.io/badge/FastAPI-3776AB?style=for-the-badge&logo=fast-api&logoColor=white" /> 
+</div>
+<div>
+<h2>:file_cabinet: Database and Caching Server</h2>
+<img src="https://img.shields.io/badge/MongoDB-3776AB?style=for-the-badge&logo=mongodb&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Postgres-3776AB?style=for-the-badge&logo=postgres&logoColor=white" /> 
+<img src="https://img.shields.io/badge/SQLite-3776AB?style=for-the-badge&logo=sqlite&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Redis-3776AB?style=for-the-badge&logo=redis&logoColor=white" />
+</div>
+</br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hrnbot" alt="hrnbot" /></a> </p>
 <h1>Popular Repos created by me</h1>
 <table>
@@ -75,7 +100,6 @@ For more information, guidance or help feel free to Connect. Let's reduce humun 
 <h11>Where to find me</h1>
 <p><a href="https://github.com/hrnbot" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/hiren-namera-83520ab4" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.instagram.com/the_artificial_intel_developer/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
-
 <p><a href="https://github.com/hrnbot" target="_blank"><img src="https://github.com/hrnbot/hrnbot/workflows/Progress%20Bar%20CI/badge.svg"/></a></p>
 <p>
 <p>⏰ Updated on ${new Date().toUTCString()}</p>
