@@ -17,10 +17,10 @@ function generateProgressBar() {
 const readme = `\
 <h1>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">,  Hiren Namera here</h1>
 <details> 
-<summary>
-Who am I.
+<center><summary><h1>
+Who am I. </h1>
 <p><img src="https://komarev.com/ghpvc/?username=hrnbot&label=Profile%20views&color=0e75b6&style=flat" alt="hrnbot" /> </p>
-</summary>
+</summary></center
 My Skills are improving day by day. Mathematics and  Physics are the skills in which I am proud d of most. Programming is also one of the best skills to solve problems in the IT world.  I never knew when I become proficient in writing maybe it is the Result of my Reading habit which I developed after my college life. I am an Introvert who loves to meet new peoples and learn new skills from them. I am waiting for a new education policy to be adapted So, I can complete my Ph.D. in Applied Mathematics and Artificial Intelligence.
 
 I am working in the field of AI/ML and AR. I am a Detail-oriented engineer, with get-it-done, on-time, and best quality products. I had proven my skills in AI by modeling some state of art architectures and algorithms and proved skills of AR by writing multi-purpose AR modules that work seamlessly on Js, Python, C#, CPP, PHP (More to Come).
