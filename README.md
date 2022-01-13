@@ -1,9 +1,9 @@
 <h1>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">,  Hiren Namera here</h1>
 <details> 
-<summary>
-Who am I.
+<center><summary><h1>
+Who am I. </h1>
 <p><img src="https://komarev.com/ghpvc/?username=hrnbot&label=Profile%20views&color=0e75b6&style=flat" alt="hrnbot" /> </p>
-</summary>
+</summary></center
 My Skills are improving day by day. Mathematics and  Physics are the skills in which I am proud d of most. Programming is also one of the best skills to solve problems in the IT world.  I never knew when I become proficient in writing maybe it is the Result of my Reading habit which I developed after my college life. I am an Introvert who loves to meet new peoples and learn new skills from them. I am waiting for a new education policy to be adapted So, I can complete my Ph.D. in Applied Mathematics and Artificial Intelligence.
 
 I am working in the field of AI/ML and AR. I am a Detail-oriented engineer, with get-it-done, on-time, and best quality products. I had proven my skills in AI by modeling some state of art architectures and algorithms and proved skills of AR by writing multi-purpose AR modules that work seamlessly on Js, Python, C#, CPP, PHP (More to Come).
@@ -131,5 +131,5 @@ For more information, guidance or help feel free to Connect. Let's reduce humun 
 </p>
 <p><a href="https://github.com/hrnbot" target="_blank"><img src="https://github.com/hrnbot/hrnbot/workflows/Progress%20Bar%20CI/badge.svg"/></a></p>
 <p>
-<p>⏰ Updated on Thu, 13 Jan 2022 03:30:06 GMT</p>
+<p>⏰ Updated on Thu, 13 Jan 2022 03:32:16 GMT</p>
 
