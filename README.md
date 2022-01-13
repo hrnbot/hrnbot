@@ -1,9 +1,9 @@
 <h1>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">,  Hiren Namera here</h1>
-<details> 
-<center><summary><h1>
-Who am I. </h1>
+
+<h1><details><summary>
+Who am I.
 <p><img src="https://komarev.com/ghpvc/?username=hrnbot&label=Profile%20views&color=0e75b6&style=flat" alt="hrnbot" /> </p>
-</summary></center
+	</summary><h5>
 My Skills are improving day by day. Mathematics and  Physics are the skills in which I am proud d of most. Programming is also one of the best skills to solve problems in the IT world.  I never knew when I become proficient in writing maybe it is the Result of my Reading habit which I developed after my college life. I am an Introvert who loves to meet new peoples and learn new skills from them. I am waiting for a new education policy to be adapted So, I can complete my Ph.D. in Applied Mathematics and Artificial Intelligence.
 
 I am working in the field of AI/ML and AR. I am a Detail-oriented engineer, with get-it-done, on-time, and best quality products. I had proven my skills in AI by modeling some state of art architectures and algorithms and proved skills of AR by writing multi-purpose AR modules that work seamlessly on Js, Python, C#, CPP, PHP (More to Come).
@@ -16,7 +16,8 @@ As a team leader of the AI and AR team learned to manage a team and take most ou
 I was also responsible to deploy AI, AR Technology to Mobile, Cloud, and web. So, I am capable of performing basic DevOps duties of CI and CD pipeline building, Rest-API handling, Deployment of the model, and balancing load using tech stack of Git/SVN, Jenkins, Ansible, Docker, Kubernetes/Docker Swarm in AWS, Azure and Google Cloud.
 
 For more information, guidance or help feel free to Connect. Let's reduce humun effort with Power of AI and AR and Build a Sci-fi World. Peace...
-</p></details>
+</h5></details>
+</h1>
 <div>
 <h1><b>Skills</b></h1>
 <h2>:file_cabinet: Programming Language</h2>
@@ -121,7 +122,6 @@ For more information, guidance or help feel free to Connect. Let's reduce humun 
   </tbody>
 </table>
 
-
 <h1>GitHub Stats</h1>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hrnbot&show_icons=true&locale=en&layout=compact" alt="hrnbot" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api?username=hrnbot&amp;show_icons=true" alt="GitHub Stats"></p>
@@ -131,5 +131,5 @@ For more information, guidance or help feel free to Connect. Let's reduce humun 
 </p>
 <p><a href="https://github.com/hrnbot" target="_blank"><img src="https://github.com/hrnbot/hrnbot/workflows/Progress%20Bar%20CI/badge.svg"/></a></p>
 <p>
-<p>⏰ Updated on Thu, 13 Jan 2022 03:32:16 GMT</p>
+<p>⏰ Updated on Thu, 13 Jan 2022 03:44:06 GMT</p>
 
