@@ -1,4 +1,4 @@
-<h1>Hi there <img src="https://raw.githubusercontent.com/hrnbot/hrnbot/master/wave.gif" height="45" width="45" >,  Hiren Namera here</h1>
+<h1>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">,  Hiren Namera here</h1>
 
 <h1><details><summary>
 Who am I.
@@ -131,5 +131,5 @@ For more information, guidance or help feel free to Connect. Let's reduce humun 
 </p>
 <p><a href="https://github.com/hrnbot" target="_blank"><img src="https://github.com/hrnbot/hrnbot/workflows/Progress%20Bar%20CI/badge.svg"/></a></p>
 <p>
-<p>⏰ Updated on Tue, 28 Jun 2022 06:27:01 GMT</p>
+<p>⏰ Updated on Tue, 28 Jun 2022 12:42:12 GMT</p>
 
