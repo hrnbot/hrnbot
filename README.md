@@ -1,4 +1,4 @@
-<h1>Hi there <img src="https://raw.githubusercontent.com/hrnbot/hrnbot/master/wave.gif" "width="25px">,  Hiren Namera here</h1>
+<h1>Hi there <img src="https://raw.githubusercontent.com/hrnbot/hrnbot/master/wave.gif" height="45" width="45" >,  Hiren Namera here</h1>
 
 <h1><details><summary>
 Who am I.
