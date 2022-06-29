@@ -15,7 +15,7 @@ function generateProgressBar() {
 }
 
 const readme = `\
-<h1>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">,  Hiren Namera here</h1>
+<h1>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px">,  Hiren Namera here</h1>
 
 <h1><details><summary>
 Who am I.
