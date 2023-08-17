@@ -118,6 +118,11 @@ For more information, guidance or help feel free to Connect. Let's reduce humun 
       <td><img alt="Stars" src="https://img.shields.io/github/stars/hrnbot/Basic-Mathematics-for-Machine-Learning?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/hrnbot/Basic-Mathematics-for-Machine-Learning?style=flat-square&labelColor=343b41"/></td>
          </tr>
+	  <tr>
+	    <td><a href="https://github.com/weboccult-ai/onnx-model-zoo"><b>onnx-model-zoo</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/weboccult-ai/onnx-model-zoo?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/weboccult-ai/onnx-model-zoo?style=flat-square&labelColor=343b41"/></td>
+         </tr>
 	  </tr>
   </tbody>
 </table>
