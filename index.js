@@ -14,8 +14,7 @@ function generateProgressBar() {
     return `{ ${progressBar} }`
 }
 
-const readme = `\
-<h1>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px">,  Hiren Namera here</h1>
+const readme = `<h1>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px">,  Hiren Namera here</h1>
 
 <h1><details><summary>
 Who am I.
@@ -135,6 +134,11 @@ For more information, guidance or help feel free to Connect. Let's reduce humun 
       <td><img alt="Stars" src="https://img.shields.io/github/stars/hrnbot/Basic-Mathematics-for-Machine-Learning?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/hrnbot/Basic-Mathematics-for-Machine-Learning?style=flat-square&labelColor=343b41"/></td>
          </tr>
+	  <tr>
+	    <td><a href="https://github.com/weboccult-ai/onnx-model-zoo"><b>onnx-model-zoo</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/weboccult-ai/onnx-model-zoo?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/weboccult-ai/onnx-model-zoo?style=flat-square&labelColor=343b41"/></td>
+         </tr>
 	  </tr>
   </tbody>
 </table>
@@ -149,7 +153,7 @@ For more information, guidance or help feel free to Connect. Let's reduce humun 
 <a href="https://www.buymeacoffee.com/hrnbot" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 <p><a href="https://github.com/hrnbot" target="_blank"><img src="https://github.com/hrnbot/hrnbot/workflows/Progress%20Bar%20CI/badge.svg"/></a></p>
 <p>
-<p>⏰ Updated on ${new Date().toUTCString()}</p>
+<p>⏰ Updated on Thu, 17 Aug 2023 01:05:57 GMT</p>
 `
 
 console.log(readme)
